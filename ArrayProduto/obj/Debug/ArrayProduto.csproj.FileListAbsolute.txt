@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ArrayProduto\bin\Debug\ArrayProduto.exe.config
+C:\Users\user\Desktop\ArrayProduto\bin\Debug\ArrayProduto.exe
+C:\Users\user\Desktop\ArrayProduto\bin\Debug\ArrayProduto.pdb
+C:\Users\user\Desktop\ArrayProduto\obj\Debug\ArrayProduto.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ArrayProduto\obj\Debug\ArrayProduto.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ArrayProduto\obj\Debug\ArrayProduto.exe
+C:\Users\user\Desktop\ArrayProduto\obj\Debug\ArrayProduto.pdb

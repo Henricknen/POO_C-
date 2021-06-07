@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ClasseProduto\bin\Debug\ClasseProduto.exe.config
+C:\Users\user\Desktop\ClasseProduto\bin\Debug\ClasseProduto.exe
+C:\Users\user\Desktop\ClasseProduto\bin\Debug\ClasseProduto.pdb
+C:\Users\user\Desktop\ClasseProduto\obj\Debug\ClasseProduto.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ClasseProduto\obj\Debug\ClasseProduto.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ClasseProduto\obj\Debug\ClasseProduto.exe
+C:\Users\user\Desktop\ClasseProduto\obj\Debug\ClasseProduto.pdb

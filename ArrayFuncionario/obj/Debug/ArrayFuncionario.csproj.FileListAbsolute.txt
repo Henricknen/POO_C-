@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ArrayFuncionario\bin\Debug\ArrayFuncionario.exe.config
+C:\Users\user\Desktop\ArrayFuncionario\bin\Debug\ArrayFuncionario.exe
+C:\Users\user\Desktop\ArrayFuncionario\bin\Debug\ArrayFuncionario.pdb
+C:\Users\user\Desktop\ArrayFuncionario\obj\Debug\ArrayFuncionario.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ArrayFuncionario\obj\Debug\ArrayFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ArrayFuncionario\obj\Debug\ArrayFuncionario.exe
+C:\Users\user\Desktop\ArrayFuncionario\obj\Debug\ArrayFuncionario.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\EncapsulamentoConta\bin\Debug\EncapsulamentoConta.exe.config
+C:\Users\user\Desktop\EncapsulamentoConta\bin\Debug\EncapsulamentoConta.exe
+C:\Users\user\Desktop\EncapsulamentoConta\bin\Debug\EncapsulamentoConta.pdb
+C:\Users\user\Desktop\EncapsulamentoConta\obj\Debug\EncapsulamentoConta.csprojAssemblyReference.cache
+C:\Users\user\Desktop\EncapsulamentoConta\obj\Debug\EncapsulamentoConta.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EncapsulamentoConta\obj\Debug\EncapsulamentoConta.exe
+C:\Users\user\Desktop\EncapsulamentoConta\obj\Debug\EncapsulamentoConta.pdb

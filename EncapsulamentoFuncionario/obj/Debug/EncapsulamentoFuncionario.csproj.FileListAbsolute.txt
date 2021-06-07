@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\EncapsulamentoFuncionario\bin\Debug\EncapsulamentoFuncionario.exe.config
+C:\Users\user\Desktop\EncapsulamentoFuncionario\bin\Debug\EncapsulamentoFuncionario.exe
+C:\Users\user\Desktop\EncapsulamentoFuncionario\bin\Debug\EncapsulamentoFuncionario.pdb
+C:\Users\user\Desktop\EncapsulamentoFuncionario\obj\Debug\EncapsulamentoFuncionario.csprojAssemblyReference.cache
+C:\Users\user\Desktop\EncapsulamentoFuncionario\obj\Debug\EncapsulamentoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EncapsulamentoFuncionario\obj\Debug\EncapsulamentoFuncionario.exe
+C:\Users\user\Desktop\EncapsulamentoFuncionario\obj\Debug\EncapsulamentoFuncionario.pdb

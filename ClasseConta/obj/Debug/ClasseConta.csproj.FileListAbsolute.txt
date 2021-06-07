@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ClasseConta\bin\Debug\ClasseConta.exe.config
+C:\Users\user\Desktop\ClasseConta\bin\Debug\ClasseConta.exe
+C:\Users\user\Desktop\ClasseConta\bin\Debug\ClasseConta.pdb
+C:\Users\user\Desktop\ClasseConta\obj\Debug\ClasseConta.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ClasseConta\obj\Debug\ClasseConta.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ClasseConta\obj\Debug\ClasseConta.exe
+C:\Users\user\Desktop\ClasseConta\obj\Debug\ClasseConta.pdb

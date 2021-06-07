@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ArrayConta\bin\Debug\ArrayConta.exe.config
+C:\Users\user\Desktop\ArrayConta\bin\Debug\ArrayConta.exe
+C:\Users\user\Desktop\ArrayConta\bin\Debug\ArrayConta.pdb
+C:\Users\user\Desktop\ArrayConta\obj\Debug\ArrayConta.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ArrayConta\obj\Debug\ArrayConta.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ArrayConta\obj\Debug\ArrayConta.exe
+C:\Users\user\Desktop\ArrayConta\obj\Debug\ArrayConta.pdb
