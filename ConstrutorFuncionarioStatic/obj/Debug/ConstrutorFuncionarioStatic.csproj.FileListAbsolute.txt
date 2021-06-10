@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ConstrutorFuncionarioStatic\bin\Debug\ConstrutorFuncionarioStatic.exe.config
+C:\Users\user\Desktop\ConstrutorFuncionarioStatic\bin\Debug\ConstrutorFuncionarioStatic.exe
+C:\Users\user\Desktop\ConstrutorFuncionarioStatic\bin\Debug\ConstrutorFuncionarioStatic.pdb
+C:\Users\user\Desktop\ConstrutorFuncionarioStatic\obj\Debug\ConstrutorFuncionarioStatic.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ConstrutorFuncionarioStatic\obj\Debug\ConstrutorFuncionarioStatic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ConstrutorFuncionarioStatic\obj\Debug\ConstrutorFuncionarioStatic.exe
+C:\Users\user\Desktop\ConstrutorFuncionarioStatic\obj\Debug\ConstrutorFuncionarioStatic.pdb

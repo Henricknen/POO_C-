@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ConstrutorConta\bin\Debug\ConstrutorConta.exe.config
+C:\Users\user\Desktop\ConstrutorConta\bin\Debug\ConstrutorConta.exe
+C:\Users\user\Desktop\ConstrutorConta\bin\Debug\ConstrutorConta.pdb
+C:\Users\user\Desktop\ConstrutorConta\obj\Debug\ConstrutorConta.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ConstrutorConta\obj\Debug\ConstrutorConta.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ConstrutorConta\obj\Debug\ConstrutorConta.exe
+C:\Users\user\Desktop\ConstrutorConta\obj\Debug\ConstrutorConta.pdb

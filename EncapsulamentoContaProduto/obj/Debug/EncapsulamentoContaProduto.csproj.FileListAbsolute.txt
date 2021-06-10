@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\EncapsulamentoContaProduto\bin\Debug\EncapsulamentoContaProduto.exe.config
+C:\Users\user\Desktop\EncapsulamentoContaProduto\bin\Debug\EncapsulamentoContaProduto.exe
+C:\Users\user\Desktop\EncapsulamentoContaProduto\bin\Debug\EncapsulamentoContaProduto.pdb
+C:\Users\user\Desktop\EncapsulamentoContaProduto\obj\Debug\EncapsulamentoContaProduto.csprojAssemblyReference.cache
+C:\Users\user\Desktop\EncapsulamentoContaProduto\obj\Debug\EncapsulamentoContaProduto.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EncapsulamentoContaProduto\obj\Debug\EncapsulamentoContaProduto.exe
+C:\Users\user\Desktop\EncapsulamentoContaProduto\obj\Debug\EncapsulamentoContaProduto.pdb
+C:\Users\user\Desktop\EncapsulamentoContaProduto\bin\Debug\EncapsulamentoContaProduto.exe.manifest
+C:\Users\user\Desktop\EncapsulamentoContaProduto\bin\Debug\EncapsulamentoContaProduto.application
+C:\Users\user\Desktop\EncapsulamentoContaProduto\obj\Debug\EncapsulamentoContaProduto.exe.manifest
+C:\Users\user\Desktop\EncapsulamentoContaProduto\obj\Debug\EncapsulamentoContaProduto.application
