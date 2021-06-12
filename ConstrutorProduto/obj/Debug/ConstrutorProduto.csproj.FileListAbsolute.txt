@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ConstrutorProduto\bin\Debug\ConstrutorProduto.exe.config
+C:\Users\user\Desktop\ConstrutorProduto\bin\Debug\ConstrutorProduto.exe
+C:\Users\user\Desktop\ConstrutorProduto\bin\Debug\ConstrutorProduto.pdb
+C:\Users\user\Desktop\ConstrutorProduto\obj\Debug\ConstrutorProduto.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ConstrutorProduto\obj\Debug\ConstrutorProduto.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ConstrutorProduto\obj\Debug\ConstrutorProduto.exe
+C:\Users\user\Desktop\ConstrutorProduto\obj\Debug\ConstrutorProduto.pdb

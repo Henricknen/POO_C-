@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ConstrutorAlunoStatic\bin\Debug\ConstrutorAlunoStatic.exe.config
+C:\Users\user\Desktop\ConstrutorAlunoStatic\bin\Debug\ConstrutorAlunoStatic.exe
+C:\Users\user\Desktop\ConstrutorAlunoStatic\bin\Debug\ConstrutorAlunoStatic.pdb
+C:\Users\user\Desktop\ConstrutorAlunoStatic\obj\Debug\ConstrutorAlunoStatic.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ConstrutorAlunoStatic\obj\Debug\ConstrutorAlunoStatic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ConstrutorAlunoStatic\obj\Debug\ConstrutorAlunoStatic.exe
+C:\Users\user\Desktop\ConstrutorAlunoStatic\obj\Debug\ConstrutorAlunoStatic.pdb
