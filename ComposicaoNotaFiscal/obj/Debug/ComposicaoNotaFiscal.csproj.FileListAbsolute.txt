@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ComposicaoNotaFiscal\bin\Debug\ComposicaoNotaFiscal.exe.config
+C:\Users\user\Desktop\ComposicaoNotaFiscal\bin\Debug\ComposicaoNotaFiscal.exe
+C:\Users\user\Desktop\ComposicaoNotaFiscal\bin\Debug\ComposicaoNotaFiscal.pdb
+C:\Users\user\Desktop\ComposicaoNotaFiscal\obj\Debug\ComposicaoNotaFiscal.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ComposicaoNotaFiscal\obj\Debug\ComposicaoNotaFiscal.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ComposicaoNotaFiscal\obj\Debug\ComposicaoNotaFiscal.exe
+C:\Users\user\Desktop\ComposicaoNotaFiscal\obj\Debug\ComposicaoNotaFiscal.pdb
