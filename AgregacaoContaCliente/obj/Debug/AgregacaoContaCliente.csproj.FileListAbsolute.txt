@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\AgregacaoContaCliente\obj\Debug\AgregacaoContaCliente.csprojAssemblyReference.cache
+C:\Users\user\Desktop\AgregacaoContaCliente\obj\Debug\AgregacaoContaCliente.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AgregacaoContaCliente\bin\Debug\AgregacaoContaCliente.exe.config
+C:\Users\user\Desktop\AgregacaoContaCliente\bin\Debug\AgregacaoContaCliente.exe
+C:\Users\user\Desktop\AgregacaoContaCliente\bin\Debug\AgregacaoContaCliente.pdb
+C:\Users\user\Desktop\AgregacaoContaCliente\obj\Debug\AgregacaoContaCliente.exe
+C:\Users\user\Desktop\AgregacaoContaCliente\obj\Debug\AgregacaoContaCliente.pdb
