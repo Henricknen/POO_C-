@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Programacao-orientada-a-objetos\AgregacaoVenda\bin\Debug\AgregacaoVenda.exe.config
+C:\Users\user\Documents\Programacao-orientada-a-objetos\AgregacaoVenda\bin\Debug\AgregacaoVenda.exe
+C:\Users\user\Documents\Programacao-orientada-a-objetos\AgregacaoVenda\bin\Debug\AgregacaoVenda.pdb
+C:\Users\user\Documents\Programacao-orientada-a-objetos\AgregacaoVenda\obj\Debug\AgregacaoVenda.csprojAssemblyReference.cache
+C:\Users\user\Documents\Programacao-orientada-a-objetos\AgregacaoVenda\obj\Debug\AgregacaoVenda.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programacao-orientada-a-objetos\AgregacaoVenda\obj\Debug\AgregacaoVenda.exe
+C:\Users\user\Documents\Programacao-orientada-a-objetos\AgregacaoVenda\obj\Debug\AgregacaoVenda.pdb
+C:\Users\user\Documents\POO-C#\AgregacaoVenda\obj\Debug\AgregacaoVenda.csprojAssemblyReference.cache
+C:\Users\user\Documents\POO-C#\AgregacaoVenda\obj\Debug\AgregacaoVenda.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\POO-C#\AgregacaoVenda\obj\Debug\AgregacaoVenda.exe
+C:\Users\user\Documents\POO-C#\AgregacaoVenda\obj\Debug\AgregacaoVenda.pdb
+C:\Users\user\Documents\POO-C#\AgregacaoVenda\bin\Debug\AgregacaoVenda.exe.config
+C:\Users\user\Documents\POO-C#\AgregacaoVenda\bin\Debug\AgregacaoVenda.exe
+C:\Users\user\Documents\POO-C#\AgregacaoVenda\bin\Debug\AgregacaoVenda.pdb
